@@ -1,5 +1,6 @@
 # Data Visualization Portfolio
 *****
+These are some cool web apps I built for fun with friends and during grad school 
 Data Visualization Portfolio in D3 Javascript, all the backend, hosting and REST APIs were also built by me
 *****
 ##### Biosynthetic Gene Cluster Visualization (Backend Django) *one person project* 
